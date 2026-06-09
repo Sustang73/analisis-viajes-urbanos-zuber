@@ -1,0 +1,6 @@
+```text
+pandas
+matplotlib
+seaborn
+scipy
+jupyter
